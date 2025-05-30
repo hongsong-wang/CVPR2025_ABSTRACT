@@ -1,4 +1,4 @@
-# CVPR2025_ABSTRACT
+# CVPR 2025 Paper Abstracts Portal
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from Conference on Computer Vision and Pattern Recognition (CVPR) 2025 and created a webpage.
 
 This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form. 
